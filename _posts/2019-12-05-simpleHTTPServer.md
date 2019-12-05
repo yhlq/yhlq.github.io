@@ -1,3 +1,11 @@
+---
+layout: post
+title: "python http实现共享文件"
+date: 2019-12-05
+description: 使用Python SimpleHTTPServer实现一个简单的Web Server，可以用来共享文件。
+tag: 小工具
+
+---
 # 简介
 如果你急需一个简单的Web Server，但你又不想去下载并安装那些复杂的HTTP服务程序，比如：Apache，ISS等。那么，Python可能帮助你。使用Python可以完成一个简单的内建HTTP服务器。于是，你可以把你的目录和文件都以HTTP的方式展示出来。你唯一需要做的就是安装一个python。
 
