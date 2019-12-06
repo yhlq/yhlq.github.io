@@ -3,7 +3,7 @@ layout: post
 title: "python http实现共享文件"
 date: 2019-12-05
 description: 使用Python SimpleHTTPServer实现一个简单的Web Server，可以用来共享文件。
-tag: 小工具
+tag: 工具
 
 ---
 # 简介
